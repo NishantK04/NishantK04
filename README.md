@@ -42,7 +42,7 @@ Hey! I'm **Nishant Kumar**, an enthusiastic **Android App Developer** with a pas
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-kumar-a44809278)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kumar-a44809278)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishantK04)  
 
 💬 Feel free to reach out for collaborations, discussions, or just to say hello! 😊
