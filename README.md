@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to My GitHub Profile 🚀
+# Hey there! 👋 Welcome to My GitHub Profile 
 
 ![Profile Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoPBn4TuoWMjVg8Khbah4R5omx5cFfVkD3A&s)
 
@@ -12,7 +12,10 @@ Hey! I'm **Nishant Kumar**, an enthusiastic **Android App Developer** with a pas
 - 🔹 **Participating in Hackathons** & solving real-world problems 🎯
 
 ## 🔥 Featured Projects
-📌 **[GeoPulse](#)** – An AI-powered earthquake alert app 🤖🌏
+📌 **[AI-Cancer-Scan](https://github.com/NishantK04/AI-Cancer-Scan)** – Early Detection for Better Prevention 🏥🔍
+
+📌 **[GeoPulse](https://github.com/NishantK04/GeoPulse)** – An AI-powered earthquake alert app 🌏
+
 
 
 💡 *More exciting projects on the way... Stay tuned!* 🚀
