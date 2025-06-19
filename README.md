@@ -55,45 +55,37 @@ Hey! I'm **Nishant Kumar**, an enthusiastic **Android App Developer** with a pas
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
       </a>
     </td>
-  </tr>
-
-  <tr><td height="20"></td></tr>
-
-  <tr>
+    <td width="20"></td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
       </a>
     </td>
-    <td></td>
+    <td width="20"></td>
     <td align="center">
       <a href="https://www.php.net/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
       </a>
     </td>
-    <td></td>
+    <td width="20"></td>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
       </a>
     </td>
-    <td></td>
+    <td width="20"></td>
     <td align="center">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
       </a>
     </td>
-    <td></td>
+    <td width="20"></td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
       </a>
     </td>
-  </tr>
-
-  <tr><td height="20"></td></tr>
-
-  <tr>
+    <td width="20"></td>
     <td align="center">
       <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
