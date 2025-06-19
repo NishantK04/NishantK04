@@ -23,15 +23,85 @@ Hey! I'm **Nishant Kumar**, an enthusiastic **Android App Developer** with a pas
 ---
 
 ## 🛠️ Tech Stack & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://kotlinlang.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td height="20"></td></tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+      </a>
+    </td>
+    <td></td>
+    <td align="center">
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+      </a>
+    </td>
+    <td></td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+      </a>
+    </td>
+    <td></td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+      </a>
+    </td>
+    <td></td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td height="20"></td></tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
