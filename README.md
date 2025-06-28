@@ -20,11 +20,18 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/NishantK04/whatsapp-chat-bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=whatsapp-chat-bot&theme=tokyonight" alt="WhatsApp Chat Bot" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NishantK04/AI-Cancer-Scan" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=AI-Cancer-Scan&theme=tokyonight" alt="AI Cancer Scan" />
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <a href="https://github.com/NishantK04/GeoPulse" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=GeoPulse&theme=tokyonight" alt="GeoPulse" />
       </a>
@@ -57,7 +64,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
 
 ---
 
