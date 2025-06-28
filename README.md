@@ -53,10 +53,11 @@
 ## 🌐 Where to Find Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nishant-kumar-a44809278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nishant-kumar751" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
 
 ---
 
