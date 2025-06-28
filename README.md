@@ -1,123 +1,63 @@
-# Hey there! 👋 Welcome to My GitHub Profile 
+<h1 align="center">Hey 👋, I'm Nishant Kumar</h1>
+<h3 align="center">Android Developer | Backend Enthusiast | Hackathon Builder | Tech Explorer 🚀</h3>
 
-![Profile Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoPBn4TuoWMjVg8Khbah4R5omx5cFfVkD3A&s)
-
-## 🌟 About Me
-Hey! I'm **Nishant Kumar**, an enthusiastic **Android App Developer** with a passion for building innovative applications. I love coding, problem-solving, and learning cutting-edge tech to create amazing user experiences! 💻📱
-
-### 💡 What I Do:
-- 🔹 **Android App Development** (Java, XML, Android Studio)
-- 🔹 **Backend Development** (APIs, Databases, Cloud Integration)
-- 🔹 **Exploring AI & ML** for future app integrations 🤖
-- 🔹 **Participating in Hackathons** & solving real-world problems 🎯
-
-## 🔥 Featured Projects
-📌 **[AI-Cancer-Scan](https://github.com/NishantK04/AI-Cancer-Scan)** – Early Detection for Better Prevention 🏥🔍
-
-📌 **[GeoPulse](https://github.com/NishantK04/GeoPulse)** – An AI-powered earthquake alert app 🌏
-
-
-
-💡 *More exciting projects on the way... Stay tuned!* 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&width=800&lines=Android+App+Developer;Backend+Development+Explorer;Open+Source+Contributor;Always+Learning+%26+Building;Hackathon+Participant+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,php,mysql,firebase,git,docker,spring" />
+</p>
+
+---
+
+## 🚀 Projects Worth Checking Out
+
+<table align="center">
   <tr>
     <td align="center">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+      <a href="https://github.com/NishantK04/AI-Cancer-Scan" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=AI-Cancer-Scan&theme=tokyonight" alt="AI Cancer Scan" />
       </a>
     </td>
-    <td width="20"></td>
     <td align="center">
-      <a href="https://developer.android.com/studio" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr><td height="20"></td></tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-      </a>
-    </td>
-    <td></td>
-    <td align="center">
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-      </a>
-    </td>
-    <td></td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-      </a>
-    </td>
-    <td></td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-      </a>
-    </td>
-    <td></td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr><td height="20"></td></tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
+      <a href="https://github.com/NishantK04/GeoPulse" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=GeoPulse&theme=tokyonight" alt="GeoPulse" />
       </a>
     </td>
   </tr>
 </table>
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantK04&show_icons=true&theme=tokyonight" alt="Nishant's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantK04&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantK04&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 🚀 My Journey & Goals
-📌 **Learning Backend Development** – APIs, Retrofit, PHP, MySQL  
-📌 **Exploring Machine Learning** – Future integration in mobile apps 🤖  
-📌 **Competing in Hackathons** – Innovating & collaborating on new ideas 💡  
-📌 **Preparing for Internships** – Focused on Software Engineering roles 🏆  
+## 🌐 Where to Find Me
 
-🚀 *"Never stop learning, never stop building!"* 🚀
+<p align="center">
+  <a href="https://linkedin.com/in/nishant-kumar-a44809278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kumar-a44809278)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishantK04)  
-
-💬 Feel free to reach out for collaborations, discussions, or just to say hello! 😊
+<p align="center">✨ *Passionate about building, exploring, and solving real-world problems through code.* ✨</p>
