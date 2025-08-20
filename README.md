@@ -20,24 +20,30 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/NishantK04/GoHabito" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=GoHabito&theme=tokyonight" alt="GoHabito" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NishantK04/whatsapp-chat-bot" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=whatsapp-chat-bot&theme=tokyonight" alt="WhatsApp Chat Bot" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NishantK04/AI-Cancer-Scan" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=AI-Cancer-Scan&theme=tokyonight" alt="AI Cancer Scan" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://github.com/NishantK04/GeoPulse" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishantK04&repo=GeoPulse&theme=tokyonight" alt="GeoPulse" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
