@@ -2,6 +2,11 @@
 <h3 align="center">Android Developer | Backend Enthusiast | Hackathon Builder | Tech Explorer 🚀</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishantK04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&width=800&lines=Android+Developer;Backend+Development+Explorer;Open+Source+Contributor;Always+Learning+%26+Building;Hackathon+Participant+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
