@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,php,mysql,firebase,git,docker,spring" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,mysql,postgresql,firebase,git" />
 </p>
 
 ---
