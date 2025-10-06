@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nishant Kumar</h1>
-<h3 align="center">Android Developer | Backend Developer | Hackathon Builder | Tech Explorer 🚀</h3>
+<h3 align="center">Android Developer | Backend Developer | Hackathon Builder | Tech Explorer </h3>
 
 
 
